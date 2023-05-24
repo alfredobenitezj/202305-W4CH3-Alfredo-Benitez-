@@ -1,11 +1,58 @@
 {
   "Characters": [
     {
-      "Name": "Noone",
+      "Class": "Noone",
       "Family": "Nu se sabe",
       "Age": "ni idea",
       "Status": "En teoria vivo",
       "speech": "No me conoces"
+    },
+    {
+      "Name": "Tyrion",
+      "Class": "Consulator",
+      "Family": "Lannister",
+      "Age": "35",
+      "status": "Alive",
+      "Serve": "Daenerys",
+      "speech": "I think I'll be dying soon"
+    },
+    {
+      "Name": "Bron",
+      "Class": "Squire",
+      "Family": "Lannister",
+      "Age": "40",
+      "status": "Alive",
+      "Pelotismo": "0",
+      "speech": "I'm a loser"
+    },
+
+    {
+      "Name": "Daenerys",
+      "Class": "Fighter",
+      "Family": "Targareen",
+      "Age": "25",
+      "status": "Alive",
+      "Weapon": "10",
+      "speech": "Primero pego y luego pregunto"
+    },
+    {
+      "Name": "Joffrey",
+      "Class": "King",
+      "Family": "Lannister",
+      "Age": "20",
+      "Reingyear": "5",
+      "Weapon": "10",
+      "speech": "Primero pego y luego pregunto"
+    },
+
+    {
+      "Name": "Jaimito",
+      "Class": "Fighter",
+      "Family": "Lannister",
+      "Age": "40",
+      "status": "Alive",
+      "Weapon": "10",
+      "speech": "Primero pego y luego pregunto"
     }
   ]
 }
