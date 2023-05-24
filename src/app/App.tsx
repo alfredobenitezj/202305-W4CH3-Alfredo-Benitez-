@@ -1,5 +1,4 @@
-import "./App.css";
-import { Header } from "Challenge3/header/header.tsx";
+import { Header } from "../../header/header";
 import { Menu } from "../menu/menu";
 import { MenuOptions } from "../../types/menu.options";
 import { AppRoutes } from "../app.routes/app.routes";
